@@ -1,14 +1,15 @@
 *{
     margin: 0px;
     padding: 0px;
-}
+/*     border: 1px solid black;
+ */}
 
-.dark{
+.dark-mode{
     background-color: black;
     color: white;
 }
 
-.light{
+.light-mode{
     background-color: white;
     color: black;
 }

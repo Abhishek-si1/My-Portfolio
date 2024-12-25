@@ -8,13 +8,11 @@ modebtn.addEventListener('click', () => {
 
     if (body.classList.contains('dark-mode')) {
         icon.src = 'moon.png';
-        btnpara.innerText = "Dark Mode";
-        body.classList.add('dark');
-        body.classList.remove('light');
+        btnpara.innerText = "Dark Mode";        
+        body.classList.remove('light-mode');
     } else {
         icon.src = 'sun.png';
         btnpara.innerText = "Light Mode";
-        body.classList.add('light');
-        body.classList.remove('dark');
+        body.classList.add('light-mode');
     }
 });

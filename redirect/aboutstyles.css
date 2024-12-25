@@ -1,0 +1,83 @@
+*{
+    margin: 0px;
+    padding: 0px;
+/*     border: 1px solid black;
+ */}
+
+a{
+    text-decoration: none;
+}
+
+ header{
+    height: 20vh;
+    padding-left: 4rem;
+    font-size: 5rem;
+    padding-top: 3rem;
+
+}
+
+/* ABOUT ME */
+
+#para{
+    height: 33.33vh;
+    margin-left: 20rem;
+    padding-left: 2rem;
+    margin-right: 5rem;
+    font-size: 3rem;
+    background-color: palevioletred;
+}
+
+/* EDUCATIONAL QUALIFICATIONS */
+
+#div1, #div2, #div3{
+    height: 15vh;
+    margin-left: 20rem;
+    margin-bottom: 3rem;
+    padding-left: 2rem;
+    margin-right: 5rem;
+    font-size: 2rem;
+    background-color: palevioletred;
+}
+
+/* PROJECTS */
+
+#div1p, #div2p, #div3p{
+    height: 15vh;
+    margin-left: 20rem;
+    margin-bottom: 5rem;
+    padding-left: 2rem;
+    margin-right: 5rem;
+    font-size: 2rem;
+    background-color: palevioletred;
+}
+
+/* Technical Skills */
+
+#div1ts, #div2ts, #div3ts{
+    height: 12vh;
+    margin-left: 20rem;
+    margin-bottom: 3rem;
+    padding-left: 2rem;
+    margin-right: 5rem;
+    font-size: 2rem;
+    background-color: palevioletred;
+}
+
+/* Certifications */
+
+#cer{
+    height: 50vh;
+    margin-left: 20rem;
+    margin-bottom: 15rem;
+    margin-right: 5rem;
+    padding: 5rem;
+    font-size: 2rem;
+    background-color: palevioletred;
+}
+
+#iframe{
+    height: 80vh;
+    width: 65vw;
+}
+
+/* CONTACT ME */
